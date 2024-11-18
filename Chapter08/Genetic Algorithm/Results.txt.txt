@@ -1,0 +1,113 @@
+Initial population:
+ [[ 6.95922788  8.81830516  4.5034799   0.48327311]
+ [-2.25618145  2.96174422 -4.66655455  2.43878723]
+ [-7.17939847  4.93996007  4.04745481 -1.58361383]
+ [ 2.37603734 -3.49601267  3.58498441  4.75653531]
+ [-3.24209151 -0.9139968  -4.08981804 -1.71147121]
+ [ 3.53794243  8.64415559 -4.4233754  -9.92369994]
+ [-7.48698107 -6.57236287  5.11270932  4.11254543]
+ [ 8.50852966 -6.2413787  -1.25291216 -9.96302973]
+ [-9.86747919  1.8837904   9.59377752  7.86801014]
+ [-6.36203689 -2.31838311  7.5306023   4.42921559]]
+Generation 0: Best fitness value = 43.46239035989164
+Generation 1: Best fitness value = 69.36730022093533
+Generation 2: Best fitness value = 69.36730022093533
+Generation 3: Best fitness value = 71.29720315875348
+Generation 4: Best fitness value = 73.49945444728978
+Generation 5: Best fitness value = 74.44596069587392
+Generation 6: Best fitness value = 77.57093357094999
+Generation 7: Best fitness value = 77.57093357094999
+Generation 8: Best fitness value = 79.9035579555088
+Generation 9: Best fitness value = 82.64735158383206
+Generation 10: Best fitness value = 82.64735158383206
+Generation 11: Best fitness value = 85.87862958670809
+Generation 12: Best fitness value = 86.27967601920571
+Generation 13: Best fitness value = 87.33779069457577
+Generation 14: Best fitness value = 87.78485557859074
+Generation 15: Best fitness value = 91.60378044914864
+Generation 16: Best fitness value = 91.60378044914864
+Generation 17: Best fitness value = 93.08209698824633
+Generation 18: Best fitness value = 93.94594423031165
+Generation 19: Best fitness value = 94.77335090754352
+Generation 20: Best fitness value = 94.77335090754352
+Generation 21: Best fitness value = 95.80238226639005
+Generation 22: Best fitness value = 99.94744260164214
+Generation 23: Best fitness value = 103.42114906878503
+Generation 24: Best fitness value = 103.42114906878503
+Generation 25: Best fitness value = 103.52501984859433
+Generation 26: Best fitness value = 105.055256799142
+Generation 27: Best fitness value = 105.35712071527168
+Generation 28: Best fitness value = 108.40642434648005
+Generation 29: Best fitness value = 108.72291623230971
+Generation 30: Best fitness value = 110.50232720808141
+Generation 31: Best fitness value = 111.32924660371624
+Generation 32: Best fitness value = 111.47262281015419
+Generation 33: Best fitness value = 111.47262281015419
+Generation 34: Best fitness value = 113.96603107181691
+Generation 35: Best fitness value = 116.32714481819274
+Generation 36: Best fitness value = 116.32714481819274
+Generation 37: Best fitness value = 117.37377291050277
+Generation 38: Best fitness value = 117.52042482536777
+Generation 39: Best fitness value = 119.63219224169735
+Generation 40: Best fitness value = 119.84893139763308
+Generation 41: Best fitness value = 121.36957158516701
+Generation 42: Best fitness value = 121.36957158516701
+Generation 43: Best fitness value = 121.89589691571013
+Generation 44: Best fitness value = 124.01264554065281
+Generation 45: Best fitness value = 124.01264554065281
+Generation 46: Best fitness value = 125.3442577995066
+Generation 47: Best fitness value = 127.55936496821323
+Generation 48: Best fitness value = 127.55936496821323
+Generation 49: Best fitness value = 127.55936496821323
+Generation 50: Best fitness value = 128.93829107453195
+Generation 51: Best fitness value = 130.34684446493335
+Generation 52: Best fitness value = 134.30134280747902
+Generation 53: Best fitness value = 134.30134280747902
+Generation 54: Best fitness value = 135.01189864920124
+Generation 55: Best fitness value = 139.23705972815665
+Generation 56: Best fitness value = 141.91858892733924
+Generation 57: Best fitness value = 141.91858892733924
+Generation 58: Best fitness value = 141.91858892733924
+Generation 59: Best fitness value = 144.4713182834163
+Generation 60: Best fitness value = 146.13453847212176
+Generation 61: Best fitness value = 146.13453847212176
+Generation 62: Best fitness value = 148.61920223956182
+Generation 63: Best fitness value = 148.61920223956182
+Generation 64: Best fitness value = 148.61920223956182
+Generation 65: Best fitness value = 151.34979693125558
+Generation 66: Best fitness value = 151.34979693125558
+Generation 67: Best fitness value = 154.24853538605063
+Generation 68: Best fitness value = 154.24853538605063
+Generation 69: Best fitness value = 155.8385303306615
+Generation 70: Best fitness value = 157.1609287469806
+Generation 71: Best fitness value = 157.54295146259145
+Generation 72: Best fitness value = 158.41179158536923
+Generation 73: Best fitness value = 161.23566707238191
+Generation 74: Best fitness value = 161.23566707238191
+Generation 75: Best fitness value = 164.0222481661475
+Generation 76: Best fitness value = 164.0222481661475
+Generation 77: Best fitness value = 164.0222481661475
+Generation 78: Best fitness value = 165.47953693385742
+Generation 79: Best fitness value = 168.32965331304405
+Generation 80: Best fitness value = 168.32965331304405
+Generation 81: Best fitness value = 168.49153338665576
+Generation 82: Best fitness value = 170.605231849543
+Generation 83: Best fitness value = 170.605231849543
+Generation 84: Best fitness value = 171.15558446290828
+Generation 85: Best fitness value = 171.15558446290828
+Generation 86: Best fitness value = 171.2685972518177
+Generation 87: Best fitness value = 172.75447599914898
+Generation 88: Best fitness value = 173.7264190040812
+Generation 89: Best fitness value = 173.7264190040812
+Generation 90: Best fitness value = 177.0168244744076
+Generation 91: Best fitness value = 177.25326541133222
+Generation 92: Best fitness value = 177.25326541133222
+Generation 93: Best fitness value = 177.25326541133222
+Generation 94: Best fitness value = 178.8850119289797
+Generation 95: Best fitness value = 183.09120767756446
+Generation 96: Best fitness value = 183.96270949449462
+Generation 97: Best fitness value = 183.96270949449462
+Generation 98: Best fitness value = 186.39761785748306
+Generation 99: Best fitness value = 190.4323834764835
+Optimized coefficient values: [ -4.03296377 -19.37292252  25.52941212  12.3512896 ]
+Maximum value of y: 193.67073748759913
